@@ -1,1 +1,2 @@
-1. create dic
+yarn watch 
+npm run server / yarn run dev
